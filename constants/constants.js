@@ -1,0 +1,12 @@
+
+module.exports = {
+
+    ERROR_CODE_INVALID_PARAM: 2,
+    ERROR_DESC_INVALID_PARAM: 'Invalid Parameter',
+    ERROR_CODE_MISSING_PARAM: 3,
+    ERROR_DESC_MISSING_PARAM: 'Missing Parameter',
+    ERROR_CODE_INVALID_TOKEN: 4,
+    ERROR_DESC_INVALID_TOKEN: 'invalid token',
+    ERROR_CODE_DUPLICATE_ENTRY: 5,
+    ERROR_DESC_DUPLICATE_ENTRY: 'Duplicate entry',
+};
